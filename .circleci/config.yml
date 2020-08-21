@@ -1,6 +1,6 @@
 version: 2
- jobs:
-   one:
+  jobs:
+    one:
      docker:
        - image: circleci/ruby:2.4.1 
      # Steps are a list of commands to run inside the docker container above.
